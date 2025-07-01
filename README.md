@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Pratap Singh Bhadoriya</h1>
 <h3 align="center">A passionate Cyber Security Expert from India</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_1177960-38389.jpg"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=22devesh&label=Profile%20views&color=0e75b6&style=flat" alt="22devesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=22devesh&label=Profile%20views&color=0e75b6&style=flat" alt="rajputarun1" /> </p>
 
 
 - 🔭 I’m currently working on [Trivago](https://22devesh.github.io/Trivago_Tourister_website/)
